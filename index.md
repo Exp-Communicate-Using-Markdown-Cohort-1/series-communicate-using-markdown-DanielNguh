@@ -5,3 +5,7 @@
 npm install
 Install all dependencies for current project.
 ```
+
+- [x] Complete Markdown challenge.
+- [ ] Submit assignment for Markdown communication.
+- [ ] Review submission.
